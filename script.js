@@ -4,13 +4,13 @@ const chatBox = document.getElementById('chatBox');
 
 const respostasBot = [
   "Oi! Como posso te ajudar hoje?",
-  "Boa! Me conta mais.",
+  "Boa! Me conta mais...",
   "Hmmm... interessante!",
   "Desculpa, não entendi muito bem 😅",
   "Vamos mudar de assunto?",
   "Pode repetir por favor?",
   "Haha, essa foi boa!",
-  "Sou apenas um ensaio mal feito, mas gosto de conversar 😎",
+  "Sou apenas um ensaio mal feito, mas gosto de conversar... 😎",
   "Precisa de ajuda com algo?"
 ];
 
