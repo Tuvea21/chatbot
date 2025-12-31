@@ -12,7 +12,7 @@ body {
 
 .chat-container {
   width: 350px;
-  max-width: 91%;
+  max-width: 90%;
   background: #1e1e1e;
   border-radius: 10px;
   overflow: hidden;
