@@ -10,7 +10,7 @@ const respostasBot = [
   "Vamos mudar de assunto?",
   "Pode repetir por favor?",
   "Haha,essa foi boa!",
-  "Sou apenas um ensaio mal feito, mas gosto de conversar... 😎",
+  "Sou apenas um ensaio mal feito, mas gosto de conversar...",
   "Precisa de ajuda com algo?"
 ];
 
